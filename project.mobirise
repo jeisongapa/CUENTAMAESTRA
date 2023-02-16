@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CUENTA MAESTRA",
-    "currentPage": "index.html",
+    "currentPage": "pactos.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -62,7 +62,7 @@
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-NV9Z2FM\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n"
   },
   "pages": {
-    "amarres.html": {
+    "inde.html": {
       "settings": {
         "main": true,
         "title": "Amarres de Amor",
@@ -591,7 +591,7 @@
         }
       ]
     },
-    "index.html": {
+    "pactos.html": {
       "settings": {
         "title": "Pactos con el Diablo",
         "meta_descr": "",
